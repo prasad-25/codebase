@@ -1,1 +1,1 @@
-this is hotfix for the product.
+this is hotfix for feature.
